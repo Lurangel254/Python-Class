@@ -38,3 +38,11 @@ identity operator
 
 1.local scope
     variables defined in this scope can be accessed
+
+### OOP (OBJECT ORIENTED PROGRAMING)
+-everything in python is an object
+-an object is a stand alone entity that has its own properties and methods(functions implemented to the variables)
+
+### Building blocks of OOP
+1. CLASSES OR CLASS:: is the blueprint for creating an object
+2. Object:: an instance or creation of a class
