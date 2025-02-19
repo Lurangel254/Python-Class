@@ -46,3 +46,15 @@ identity operator
 ### Building blocks of OOP
 1. CLASSES OR CLASS:: is the blueprint for creating an object
 2. Object:: an instance or creation of a class
+
+### pillars of oop
+1. Inheritance:: allows us to define a class and inherit all the methods and properties in another class
+2. Encapsulation :: bundling of data and methods into one unit (class)
+- protect data from direct access or modification outside the class
+- Achieved by access modifiers
+  a. public : accessible everywhere
+  b. _protected : hint that it should not be accessed directly
+  c. __private : Name-mangled to prevent modification
+3. Abstraction : hiding complex implementation details and exposing only the relevant one.
+4. Polymorphism : allows different classes to have method with the same name but different implementation: overide.
+   -achieved via method over riding and duck typing.
